@@ -25,7 +25,7 @@ A lightweight, click-through desktop overlay for **Windows 10 & Windows 11** tha
 
 ---
 
-## 🎮 Controls & Shortcuts
+## Controls & Shortcuts
 
 | Action | Shortcut / Control |
 | :--- | :--- |
@@ -36,12 +36,12 @@ A lightweight, click-through desktop overlay for **Windows 10 & Windows 11** tha
 
 ---
 
-## 🛠️ Custom Local Lyrics (`.lrc` Support)
+## Custom Local Lyrics (`.lrc` Support)
 Want to use your own custom-timed lyrics for a specific song? Drop a standard `.lrc` file named `<Song Title>.lrc` into the installation folder, and the overlay will automatically prioritize your local timestamps.
 
 ---
 
-## 💻 Built With
+## Built With
 * **Python** & **pywebview** (Edge WebView2 transparent overlay)
 * **HTML5 Canvas** (Real-time particle & constellation rendering)
 * **Windows Runtime (`winrt`)** (Native Windows media session & timeline sync)
